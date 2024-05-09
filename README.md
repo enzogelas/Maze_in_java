@@ -1,0 +1,1 @@
+To launch the application, go on directory maze/bin and run : java main/Main
