@@ -6,7 +6,7 @@ This application is part a a school project at Telecom Paris
 
 This application allows the user to create and edit a maze with hexagonal tiles.
 
-![Global view of the application](images/general-view.png)
+![Global view of the application](maze/images/general-view.png)
 
 ### Build and run the application
 
