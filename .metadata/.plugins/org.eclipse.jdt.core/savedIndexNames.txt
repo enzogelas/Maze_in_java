@@ -1,4 +1,4 @@
-INDEX VERSION 1.131+C:\Telecom1A\INF\GIT\gelas-enzo\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+C:\Users\enzog\ProjetsINFO\Java\Maze_in_java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
 1401970613.index
 3688818756.index
-1865797976.index
